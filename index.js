@@ -1,2 +1,1 @@
-var string = 'hello these i s main branch i am in Main branch'
-var main ="pravin bhaii is main"
+let git = "these is main branch of GIT"
